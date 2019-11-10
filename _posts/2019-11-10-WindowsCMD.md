@@ -1,4 +1,10 @@
-# Windows CMD命令大全
+---
+layout: post
+title: Windows CMD命令大全
+description: 记录一些windows CMD的常用命令，如有错误还请多多指教。
+tag: windows 命令
+---
+
 
 #### 命令简介
 
